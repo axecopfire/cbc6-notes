@@ -12,3 +12,7 @@ We went over a ton of stuff.
 - `rmdir`: Remove directory
 - `mv`: moves (what it renames a file thats crazy)
 - Text editors (nano, vscode, sublime)
+
+## Video Notes
+- Egyptian door was the first machine
+- https://en.wikipedia.org/wiki/Machine
